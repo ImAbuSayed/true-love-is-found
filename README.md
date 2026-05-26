@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/true-love-is-found/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for True Love Is Found](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-is-found/) |
+| **Get License** | [Obtain a Music License for True Love Is Found](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-is-found/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows are falling and pulling you close
+> Caught in a feeling I need the most
+> Whiskey is warming the midnight air
+> But I am just drunk on the way you stare
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
