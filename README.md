@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/true-love-is-found/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for True Love Is Found](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-is-found/) |
+| **Get License** | [Official Music Licensing for True Love Is Found](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-is-found/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a4a39edae3fd6fda5dd754e487ed56181aa53cd6b327d7a3139aa293970e4707` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
